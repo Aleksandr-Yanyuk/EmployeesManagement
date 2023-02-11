@@ -1,4 +1,4 @@
-# EmployeeManagement
+# Employees Management
  &nbsp;&nbsp;&nbsp;&nbsp; I created Employee Management using .Net Core Web App (Model-View-Controller), in the Crud Pages you can keep track of employees that is tied to an Sql database. 
 
 
